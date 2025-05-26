@@ -13,4 +13,4 @@ A simple **Library Management System** built using **Java**. This project allows
 -  Organize and manage a collection efficiently
 
 Author
-Rozain Shakeel
+- Rozain Shakeel
