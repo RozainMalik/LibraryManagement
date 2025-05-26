@@ -12,5 +12,3 @@ A simple **Library Management System** built using **Java**. This project allows
 -  Search for books by title or author
 -  Organize and manage a collection efficiently
 
-Author
-- Rozain Shakeel
